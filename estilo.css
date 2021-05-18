@@ -1,0 +1,54 @@
+body {
+    background-color:rgb(245, 91, 35);
+ font-family:sans-serif;
+color: gold ; 
+}
+
+
+footer{
+    position: auto;
+    bottom: 0;
+    background-color: rgb(4, 4, 104);
+    color: gold;
+    text-align: center;
+    line-height: 20px;
+    padding: 2%;
+    margin-left: 5%;
+    margin-right: 5%;
+}
+
+#cabecalho {
+    border:gold 1px solid;
+    border-radius: 10px;
+    text-align: center;
+    margin: 30px;
+box-shadow: gold 2px 2px 2px 4px; 
+       
+}
+
+#conteudo{
+    background-color: rgb(4, 4, 104) ;
+    margin-left: 5%;
+    margin-right: 5%;
+    padding: 2%
+
+}
+
+#area
+
+legend {
+    font-style: normal;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    text-align: center;
+       } 
+
+
+input {
+    width: 100%;
+    padding: 12px 20px;
+    margin: 8px 0;
+    box-sizing: border-box;
+    border: 2px solid gold;
+    border-radius: 4px;
+    text-align: center; 
+}
